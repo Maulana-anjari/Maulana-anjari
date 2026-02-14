@@ -21,13 +21,6 @@
 - **Database Architecture:** PostgreSQL, Prisma, Alembic, SQL Server, Vector Databases (RAG).
 - **Workflow:** Conventional Commits, Git Flow, First-Principle Thinking.
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maulana-anjari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulana-anjari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ### 📫 How to Reach Me
 
 <a href="https://www.linkedin.com/in/maulana-anjari-anggorokasih" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
