@@ -13,16 +13,24 @@
 </p>
 
 <p align="center">
-  <strong>Backend Engineer at <a href="https://sumbu.xyz/">Sumbu Labs</a></strong> · Sleman, Yogyakarta · Hiring open
+  <strong>Backend Engineer · Software Engineer · Co-Founder at <a href="https://sumbu.xyz/">Sumbu Labs</a></strong> · Sleman, Yogyakarta · Open to backend roles
 </p>
 
 ---
 
 ## Professional Summary
 
-I build backend and platform systems that need to survive real production pressure: enterprise integrations, LLM tooling, blockchain workflows, and high-trust internal systems. My work sits at the intersection of engineering depth, delivery cadence, and practical leadership.
+I build backend and software systems that need to survive real production pressure: APIs, auth, databases, caching, CI/CD, enterprise integrations, and LLM tooling. My work sits at the intersection of engineering depth, delivery cadence, and practical leadership.
 
 I focus on shipping systems that are measurable, maintainable, and useful — not just technically impressive. That means fast iteration, clear architecture, and an evidence-first approach to every result.
+
+## Core Backend Strengths
+
+- API design and backend architecture
+- Auth, RBAC, and workflow automation
+- Database modeling, performance, and caching
+- Integration-heavy systems and internal tooling
+- LLM backend features and tool-calling flows
 
 ---
 
@@ -35,8 +43,8 @@ I focus on shipping systems that are measurable, maintainable, and useful — no
 ### Pertamina EP WOPDM Z4 LLM Insight Platform
 
 - Reduced median issue-to-merge lead time by **51.9%**
-- Built backend features for an enterprise insight workflow
-- Focused on integration-heavy systems and reliable delivery
+- Built backend features with Python/FastAPI, SQL Server, Milvus, RBAC, caching, and REST API contracts
+- Focused on production reliability, integration-heavy workflows, and delivery speed
 
     </td>
     <td valign="top" width="50%">
@@ -44,7 +52,7 @@ I focus on shipping systems that are measurable, maintainable, and useful — no
 ### SumbuPay Web3 Payment Infrastructure
 
 - Building backend foundations for a Web3 payment platform
-- Aligning payments, storage, and integration layers for scale
+- Aligning QRIS integration, MPC wallet workflows, storage, and integration layers for scale
 - Shipping with a production-first mindset
 
     </td>
@@ -139,10 +147,10 @@ I focus on shipping systems that are measurable, maintainable, and useful — no
 
 | Work | What it shows |
 |---|---|
-| **Pertamina EP WOPDM Z4 LLM Insight Platform** | Backend delivery for an enterprise insight system, with measurable cycle-time improvement |
-| **CAR-dano / inspeksimobil.id** | Blockchain-backed workflow that reduced vehicle-inspection turnaround by up to **50%** |
-| **Hyperledger Fabric pharma supply-chain prototype** | Multi-network architecture with **2 independent networks**, **6 organizations**, and **30+ Docker containers** |
-| **Backend Super Skills / agent workflows** | Practical tooling for accelerating backend engineering and integration-heavy work |
+| **Pertamina EP WOPDM Z4 LLM Insight Platform** | Backend engineering for an enterprise LLM system with measurable cycle-time improvement |
+| **CAR-dano / inspeksimobil.id** | Backend optimization and workflow automation that reduced inspection turnaround by up to **50%** |
+| **Hyperledger Fabric pharma supply-chain prototype** | Distributed backend architecture with **2 networks**, **6 organizations**, and **30+ Docker containers** |
+| **Technocorner / Find-It registration platforms** | REST APIs, auth, team workflows, and admin systems for high-traffic event platforms |
 
 ---
 
@@ -172,7 +180,7 @@ I focus on shipping systems that are measurable, maintainable, and useful — no
 
 ## Let’s Connect
 
-I’m open to hiring conversations, backend/platform opportunities, and high-trust engineering collaborations.
+I’m open to hiring conversations for backend engineer, software engineer, and platform engineering roles.
 
 If you’re building something that needs reliable backend systems, integration depth, or pragmatic technical leadership, feel free to reach out.
 
