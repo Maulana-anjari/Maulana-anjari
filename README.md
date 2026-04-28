@@ -71,6 +71,11 @@ I focus on shipping systems that are measurable, maintainable, and useful — no
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**AI / LLM Systems**
+
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration%20%26%20Tool%20Calling-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 **Data & Integration**
 
@@ -79,22 +84,34 @@ I focus on shipping systems that are measurable, maintainable, and useful — no
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=vectorlogics&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-374151?style=for-the-badge&logo=auth0&logoColor=white)
+![REST%20API](https://img.shields.io/badge/REST%20API-4B5563?style=for-the-badge&logo=swagger&logoColor=white)
+![Caching](https://img.shields.io/badge/Caching-10B981?style=for-the-badge&logo=cachet&logoColor=white)
 
 **Infra & Delivery**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![S3-compatible Storage](https://img.shields.io/badge/S3--compatible%20Storage-0F766E?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git%20Flow-24292F?style=for-the-badge&logo=git&logoColor=white)
 
 **Blockchain & Systems**
 
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Cardano](https://img.shields.io/badge/Cardano-0133AD?style=for-the-badge&logo=cardano&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![MPC Wallets](https://img.shields.io/badge/MPC%20Wallets-7C3AED?style=for-the-badge&logo=walletconnect&logoColor=white)
+![QRIS Integration](https://img.shields.io/badge/QRIS%20Integration-1D4ED8?style=for-the-badge&logo=payment&logoColor=white)
 
 **Frontend / Supporting Tools**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ---
 
@@ -105,6 +122,16 @@ I focus on shipping systems that are measurable, maintainable, and useful — no
 | [Website / Blog](https://maulana.sumbu.xyz/) | Articles, notes, and project updates |
 | [LinkedIn](https://linkedin.com/in/maulana-anjari-anggorokasih) | Professional updates and career storytelling |
 | [X](https://x.com/maulana_anjari) | Short-form thoughts and engineering observations |
+
+## Additional Technical Breadth
+
+| Area | Technologies |
+|---|---|
+| Cloud / Storage | AWS / S3-compatible storage |
+| DevOps / Delivery | Docker, GitHub Actions, Git Flow |
+| Platform Security | RBAC, auth workflows, JWT |
+| Research / Data | Milvus, MongoDB, PostgreSQL, SQL Server |
+| Blockchain / Web3 | Hyperledger Fabric, Cardano, IPFS, QRIS, MPC wallet workflows |
 
 ---
 
